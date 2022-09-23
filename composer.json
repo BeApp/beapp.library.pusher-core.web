@@ -18,8 +18,8 @@
     "require": {
         "php": ">=7.1",
         "psr/log": "^1.0",
-        "symfony/translation": "3.*||4.*",
-        "symfony/routing": "3.*||4.*"
+        "symfony/translation": "5.4.*",
+        "symfony/routing": "5.4.*"
     },
     "autoload": {
         "psr-4": {
